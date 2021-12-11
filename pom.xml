@@ -35,7 +35,7 @@
 				      <muleVersion>4.4.0</muleVersion>
 				      <username>pandu121</username>
 				      <password>Pandu@121</password>
-				      <applicationName>a-hello-world-mmp</applicationName>
+				      <applicationName>a-hello-world-pandu</applicationName>
 				      <environment>Sandbox</environment>
 				      <region>us-east-1</region>
 				      <workers>1</workers>
