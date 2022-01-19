@@ -33,9 +33,9 @@
 				    <cloudHubDeployment>
 				      <uri>https://anypoint.mulesoft.com</uri>
 				      <muleVersion>4.4.0</muleVersion>
-				      <username>pandu121</username>
-				      <password>Pandu@121</password>
-				      <applicationName>a-hello-world-pandu</applicationName>
+				      <username>kish1221</username>
+				      <password>Kish1221</password>
+				      <applicationName>a-hello-world-b14</applicationName>
 				      <environment>Sandbox</environment>
 				      <region>us-east-1</region>
 				      <workers>1</workers>
